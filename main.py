@@ -1955,8 +1955,4 @@ import math as m
 #     print(arr.count(arr[-1])-1)
 # arr.sort(reverse=True)
 # print(arr)
-print(chr(101))
-a= 97
-b = 102
-print((chr(x) for x in range(a,b+1)) if a<b else(chr(x) for x in range(b,a+1))
-print(a)
+git config global user.name "aran386"
